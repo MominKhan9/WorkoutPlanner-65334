@@ -1,8 +1,8 @@
 # WorkoutPlanner-RollNumber
 
-**Name:** John Doe  
-**Student ID:** 123456789  
-**Course:** Python Programming  
+**Name:** Momin Khan  
+**Student ID:** 65334  
+**Course:** Software Construction and Development
 
 ## 📋 Project Description
 
